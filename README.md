@@ -1,8 +1,8 @@
 # Machine Learning Project 2
 
 Collaborators:
- * [Furkan] (https://github.com/afofa)
- * [RadoslawDryzner] (https://github.com/RadoslawDryzner)
+ * [Furkan](https://github.com/afofa)
+ * [RadoslawDryzner](https://github.com/RadoslawDryzner)
  * [S-Rey](https://github.com/S-Rey)
 
 ### Synopsis
